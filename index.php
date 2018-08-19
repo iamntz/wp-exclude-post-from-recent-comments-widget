@@ -7,6 +7,7 @@ Author: Ionuț Staicu
 Version: 1.0.0
 Author URI: http://ionutstaicu.com
 Slug: exclude-post-from-recent-comments-widget
+License: GPL2
  */
 
 if (!defined('ABSPATH')) {
